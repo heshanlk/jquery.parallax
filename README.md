@@ -7,8 +7,8 @@ Refer to the [my blog](http://www.heididev.com/08/02/2013/parallax-scrolling-jqu
 
 Dependencies
 -----
-[jQuery](http://jquery.com/download/) (Tested with jQuery 1.7)
-[jQuery Mouse Wheel](https://github.com/brandonaaron/jquery-mousewheel) (Only if your using a div wrapped with another div with overflow:scroll and fixed width)
+* [jQuery](http://jquery.com/download/) (Tested with jQuery 1.7)
+* (Optional) [jQuery Mouse Wheel](https://github.com/brandonaaron/jquery-mousewheel) (Only if your using a div wrapped with another div with overflow:scroll and fixed width)
 
 Usage
 -----
