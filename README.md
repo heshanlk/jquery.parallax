@@ -1,9 +1,9 @@
-jquery.parallax
+jQuery.parallax
 ===============
 
-#### Yet another simple and heavily customizable parallax plugin
+#### Yet another simple and customizable parallax plugin which support, mousewheel scrool and container.
 
-Refer to the [my blog](http://www.heididev.com/08/02/2013/parallax-scrolling-jquery) for more details.
+Refer to the [my blog](http://www.heididev.com/parallax-scrolling-jquery) for more details.
 
 Dependencies
 -----
